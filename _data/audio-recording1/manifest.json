@@ -23,6 +23,48 @@
         "id": "https://tanyaclement.github.io/test-performant/audio-recording1/canvas-1/canvas",
         "type": "Canvas",
         "duration": 3400.0,
+        "annotations": [
+          
+          {
+            "type": "AnnotationPage",
+            "id": "https://tanyaclement.github.io/test-performant/annotations/audio-recording1-canvas-1-audience.json",
+            "label": {
+              "none": ["Audience"]
+            }
+          }
+          ,
+          {
+            "type": "AnnotationPage",
+            "id": "https://tanyaclement.github.io/test-performant/annotations/audio-recording1-canvas-1-ralph-ellison.json",
+            "label": {
+              "none": ["Ralph Ellison"]
+            }
+          }
+          ,
+          {
+            "type": "AnnotationPage",
+            "id": "https://tanyaclement.github.io/test-performant/annotations/audio-recording1-canvas-1-program.json",
+            "label": {
+              "none": ["Program"]
+            }
+          }
+          ,
+          {
+            "type": "AnnotationPage",
+            "id": "https://tanyaclement.github.io/test-performant/annotations/audio-recording1-canvas-1-george-simenon.json",
+            "label": {
+              "none": ["George Simenon"]
+            }
+          }
+          ,
+          {
+            "type": "AnnotationPage",
+            "id": "https://tanyaclement.github.io/test-performant/annotations/audio-recording1-canvas-1-carvel-collins.json",
+            "label": {
+              "none": ["Carvel Collins"]
+            }
+          }
+        ],
         "items": [
           {
             "id": "https://tanyaclement.github.io/test-performant/audio-recording1/canvas-1/paintings",
