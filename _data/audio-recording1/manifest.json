@@ -23,16 +23,6 @@
         "id": "https://tanyaclement.github.io/test-performant/audio-recording1/canvas-1/canvas",
         "type": "Canvas",
         "duration": 3400.0,
-        "annotations": [
-          
-          {
-            "type": "AnnotationPage",
-            "id": "https://tanyaclement.github.io/test-performant/annotations/audio-recording1-canvas-1-carvel-collins.json",
-            "label": {
-              "none": ["Carvel Collins"]
-            }
-          }
-        ],
         "items": [
           {
             "id": "https://tanyaclement.github.io/test-performant/audio-recording1/canvas-1/paintings",
