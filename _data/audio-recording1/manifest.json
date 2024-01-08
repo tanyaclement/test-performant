@@ -1,0 +1,46 @@
+{
+    "@context": "http://iiif.io/api/presentation/3/context.json",
+    "id": "https://tanyaclement.github.io/test-performant/audio-recording1/manifest.json",
+    "type": "Manifest",
+    "label": { "en": [ "audio-recording1" ] },
+    "homepage": [
+      {
+        "id": "https://www.floridamemory.com/items/show/238024",
+        "type": "Text",
+        "label": { "en": [ "audio-recording1" ] },
+        "format": "text/html"
+      }
+    ],
+    "provider": [
+      {
+        "id": "https://www.floridamemory.com/",
+        "type": "Agent",
+        "label": { "en": [ "Florida Memory Project" ] }
+      }
+    ],
+    "items": [
+      {
+        "id": "https://tanyaclement.github.io/test-performant/audio-recording1/canvas-1/canvas",
+        "type": "Canvas",
+        "duration": 3400.0,
+        "items": [
+          {
+            "id": "https://tanyaclement.github.io/test-performant/audio-recording1/canvas-1/paintings",
+            "type": "AnnotationPage",
+            "items": [
+              {
+                "id": "https://tanyaclement.github.io/test-performant/audio-recording1/canvas-1/painting",
+                "type": "Annotation",
+                "motivation": "painting",
+                "body": {
+                  "id": "https://www.floridamemory.com/fpc/memory/Collections/folklife/folklife-MP3/T86-243.ogg",
+                    "duration": 3400.0
+                },
+                "target": "https://tanyaclement.github.io/test-performant/audio-recording1/canvas-1/canvas"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+} 
