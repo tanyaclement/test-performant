@@ -27,14 +27,6 @@
           
           {
             "type": "AnnotationPage",
-            "id": "https://tanyaclement.github.io/test-performant/annotations/audio-recording1-canvas-1-program.json",
-            "label": {
-              "none": ["Program"]
-            }
-          }
-          ,
-          {
-            "type": "AnnotationPage",
             "id": "https://tanyaclement.github.io/test-performant/annotations/audio-recording1-canvas-1-george-simenon.json",
             "label": {
               "none": ["George Simenon"]
