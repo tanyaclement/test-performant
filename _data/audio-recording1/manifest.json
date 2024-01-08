@@ -27,14 +27,6 @@
           
           {
             "type": "AnnotationPage",
-            "id": "https://tanyaclement.github.io/test-performant/annotations/audio-recording1-canvas-1-ralph-ellison.json",
-            "label": {
-              "none": ["Ralph Ellison"]
-            }
-          }
-          ,
-          {
-            "type": "AnnotationPage",
             "id": "https://tanyaclement.github.io/test-performant/annotations/audio-recording1-canvas-1-program.json",
             "label": {
               "none": ["Program"]
